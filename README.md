@@ -1,9 +1,9 @@
 # Primer-Entregable Ayleen Cabezas Olivas
-# Análisis de posibles clientes perididos de un banco anónimo. 
+# Análisis de posibles clientes perdidos de un banco anónimo. 
 
 # Descripción
 
-Este dataset se creo para predrecir las posiblesa perdidas de clientes con cuentas en un banco anonimo ubicado en los paises Francia, Alemania y España.
+Este dataset se creó para predecir las posibles perdidas de clientes con cuentas en un banco anónimo ubicado en los paises Francia, Alemania y España.
 El dataset cuenta con 10.000 registros y 18 columnas para su análisis. 
 
 # Detalle de columnas
@@ -28,7 +28,7 @@ Balance = Saldo contable en sus tarjetas
 
 NumOfProducts = Cantidad de productos en el banco
 
-HasCrCard = Tiene o no tarjeta de credito
+HasCrCard = Tiene o no tarjeta de crédito
 
 IsActiveMember = Esta activo o no (utiliza o no sus productos)
 
@@ -38,23 +38,23 @@ Exited = Cerro sus cuentas o no
 
 Complain = Reclamos
 
-Satisfaction Score = Satisfaccion del cliente
+Satisfaction Score = Satisfacción del cliente
 
 Card Type = Tipo de tarjeta
 
 Point Earned = Puntos Ganados
 
 
-# Hipóteis
+# Hipótesis
 
-Los clientes con mayor actividad en nuestro banco no seran clientes perdidos
+Los clientes con mayor actividad en nuestro banco no serán clientes perdidos
 
 
 # Preguntas
 
 ¿El nivel de satisfacción del cliente es un factor importante a la hora de cerrar sus cuentas? 
 
-¿La categoria de la tarjeta que tiene el cliente, afecta en la perdida del cliente? (mientras mayor sea el tipo de tarjeta menos posibilidad tienen los clientes de abandonar el banco)
+¿La categoría de la tarjeta que tiene el cliente, afecta en la pérdida del cliente? (mientras mayor sea el tipo de tarjeta menos posibilidad tienen los clientes de abandonar el banco)
 
 ¿El saldo que mantienen en su cuenta, es un factor importante para considerarlo un cliente perdido?
 
